@@ -21,3 +21,10 @@ Just click a form and it'll open by itself. That's it!
 ## Errors n' Shit
 If anything happens, FNF Night Mod Manager will automatically report it. You can click ERROR.txt and the ENTIRE dump will be dumped here.
 Attach ERROR.txt into an issue and I will get on it.
+
+## Roadmap
+This is still in HEAVY development (as suggested in the logo), so there will be a LOT of bugs in this app.
+If you encounter an error (I know you won't) PLEASE, PLEASE, PLEASE I BEG OF YOU, make an issue. PLEASE!!!!
+🥺 This helps me make a lot more bug fixes and helps this entire project.
+
+FileDaddy is better.
