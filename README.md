@@ -28,3 +28,10 @@ If you encounter an error (I know you won't) PLEASE, PLEASE, PLEASE I BEG OF YOU
 🥺 This helps me make a lot more bug fixes and helps this entire project.
 
 FileDaddy is better.
+
+## Final notes and feature requests
+If you're a C# coder, if you want to make a request, you could add code snippets in so I could get an idea on how to code it.
+I'm amatuer.
+If you're not, just try to make the request in full detail.
+I want this project to take off, but I really don't think it would.
+Bye!
