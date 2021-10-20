@@ -1,0 +1,8 @@
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Daniel\source\repos\FNF Mod Manager\FNF Mod Manager\bin\Debug\links.txt'.
+File name: 'C:\Users\Daniel\source\repos\FNF Mod Manager\FNF Mod Manager\bin\Debug\links.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at FNF_Mod_Manager.MainWindow.<button2_Click>g__GetLine|6_0(String fileName, Int32 line) in C:\Users\Daniel\source\repos\FNF Mod Manager\FNF Mod Manager\MainWindow.cs:line 84

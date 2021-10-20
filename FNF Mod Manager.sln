@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNF Mod Manager", "FNF Mod Manager\FNF Mod Manager.csproj", "{60458680-BC43-47D9-9207-D96CC0D0CBEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60458680-BC43-47D9-9207-D96CC0D0CBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60458680-BC43-47D9-9207-D96CC0D0CBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60458680-BC43-47D9-9207-D96CC0D0CBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60458680-BC43-47D9-9207-D96CC0D0CBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B60A462-48EC-48F7-9004-2C82867A7685}
+	EndGlobalSection
+EndGlobal
