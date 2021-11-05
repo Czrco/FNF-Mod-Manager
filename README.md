@@ -1,5 +1,3 @@
-![Logo](https://github.com/Czrco/FNF-Mod-Manager/blob/main/FNF%20Mod%20Manager/Resources/Friday_Night_Funkin_logo.png)
-
 # FNF Night Funkin Mod Manager
 
 ## Let's talk about the code optimizability.
