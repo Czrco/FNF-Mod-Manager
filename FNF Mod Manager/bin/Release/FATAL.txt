@@ -1,4 +1,0 @@
-System.UriFormatException: Invalid URI: The URI is empty.
-   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
-   at System.Uri..ctor(String uriString)
-   at FNF_Mod_Manager.ModShop.button2_Click(Object sender, EventArgs e) in C:\Users\Daniel\source\repos\FNF Mod Manager\FNF Mod Manager\ModShop.cs:line 94

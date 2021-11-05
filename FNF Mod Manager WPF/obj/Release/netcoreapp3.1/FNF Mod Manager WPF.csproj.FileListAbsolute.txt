@@ -1,0 +1,24 @@
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\bin\Release\netcoreapp3.1\FNF Mod Manager WPF.exe
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\bin\Release\netcoreapp3.1\FNF Mod Manager WPF.deps.json
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\bin\Release\netcoreapp3.1\FNF Mod Manager WPF.runtimeconfig.json
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\bin\Release\netcoreapp3.1\FNF Mod Manager WPF.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\bin\Release\netcoreapp3.1\FNF Mod Manager WPF.dll
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\bin\Release\netcoreapp3.1\FNF Mod Manager WPF.pdb
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\Windows\MainWindow.g.cs
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\FNF Mod Manager WPF_MarkupCompile.cache
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\FNF Mod Manager WPF_MarkupCompile.lref
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\Windows\MainWindow.baml
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\FNF Mod Manager WPF.g.resources
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\FNF Mod Manager WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\FNF Mod Manager WPF.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\FNF Mod Manager WPF.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\FNF Mod Manager WPF.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\FNF Mod Manager WPF.dll
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\FNF Mod Manager WPF.pdb
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\FNF Mod Manager WPF.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\FNF Mod Manager WPF.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\Windows\ModShop.g.cs
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\Windows\ModShop.baml
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\Windows\ModShelf.g.cs
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\Windows\ModShelf.baml

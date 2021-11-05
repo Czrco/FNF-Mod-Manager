@@ -1,0 +1,40 @@
+﻿<Window x:Class="Windows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FNF_Mod_Manager_WPF"
+        mc:Ignorable="d"
+        Title="FNF Mod Manager [build 0.0.2 alpha]" Height="478" Width="817"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="SingleBorderWindow"
+        SizeToContent="Manual"
+        ResizeMode="NoResize"
+        Closing="Window_Closing">
+    <Canvas Background="#FF2B2B2B" Margin="0,0,0,0">
+        <Image Height="159" Width="212" Source="/Friday_Night_Funkin_logo.png" Stretch="Uniform" Canvas.Left="586" Canvas.Top="281"/>
+        <Button x:Name="Mod_Shop_Button" Content="Mod Shop" Width="105" Height="30" Click="ModShop" Background="#FF008BFF" BorderBrush="{x:Null}" Foreground="White" Canvas.Left="176" Canvas.Top="176" UseLayoutRounding="False">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button Content="Mod Shelf" Width="105" Height="30" Click="ModShelf" Background="#FF008BFF" BorderBrush="{x:Null}" Foreground="White" Canvas.Left="351" Canvas.Top="176">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="Updates" Content="Check For Updates" Width="105" Height="30" Background="#FF008BFF" BorderBrush="{x:Null}" Foreground="White" Canvas.Left="530" Canvas.Top="176" Click="Updates_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <TextBox x:Name="Debug_Box" Canvas.Left="10" Canvas.Top="319" Text="TextBox" TextWrapping="Wrap" Width="575" Height="105"/>
+        <Label Content="Welcome to FNF Mod Manager!&#xD;&#xA;Click a button to start, or click the debugging box to debug." Canvas.Left="240" Canvas.Top="120" Foreground="White"/>
+    </Canvas>
+</Window>
