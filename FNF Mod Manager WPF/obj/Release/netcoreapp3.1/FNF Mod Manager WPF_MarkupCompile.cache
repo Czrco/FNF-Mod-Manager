@@ -10,11 +10,11 @@ none
 false
 TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\App.xaml
-3-997645126
+4-1850060810
 
-10511665686
+11-1570870230
 192-1533232326
-Windows\MainWindow.xaml;Windows\ModShelf.xaml;Windows\ModShop.xaml;
+Windows\MainWindow.xaml;Windows\ModShelf.xaml;Windows\ModShop.xaml;Windows\Resources\Message.xaml;
 
 False
 

@@ -44,7 +44,7 @@ namespace Scripts
         {
             string webData;
             WebClient wc = new WebClient();
-            webData = wc.DownloadString("https://czrcos-databasee.000webhostapp.com/fnf%20mod%20manager/names");
+            webData = wc.DownloadString(link);
             return webData;
         }
 

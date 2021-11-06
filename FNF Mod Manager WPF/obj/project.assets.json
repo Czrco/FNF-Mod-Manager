@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel\\source\\repos\\FNF Mod Manager WPF\\FNF Mod Manager WPF\\FNF Mod Manager WPF.csproj",
-      "projectName": "FNF Mod Manager WPF",
-      "projectPath": "C:\\Users\\Daniel\\source\\repos\\FNF Mod Manager WPF\\FNF Mod Manager WPF\\FNF Mod Manager WPF.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel\\source\\repos\\FNF Mod Manager WPF\\FNF Mod Manager WPF\\FNF Mod Manager.csproj",
+      "projectName": "FNF Mod Manager",
+      "projectPath": "C:\\Users\\Daniel\\source\\repos\\FNF Mod Manager WPF\\FNF Mod Manager WPF\\FNF Mod Manager.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Daniel\\source\\repos\\FNF Mod Manager WPF\\FNF Mod Manager WPF\\obj\\",
       "projectStyle": "PackageReference",

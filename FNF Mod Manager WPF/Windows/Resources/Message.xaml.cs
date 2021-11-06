@@ -10,16 +10,23 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace FNF_Mod_Manager_WPF.Windows.Resources
+namespace Windows.Resources
 {
-    /// <summary>
-    /// Interaction logic for Message.xaml
-    /// </summary>
+    public enum MessageButtons : ushort
+    {
+        OK = 0,
+        YesNo = 1,
+        Download = 2
+    }
     public partial class Message : Window
     {
-        public Message()
+        string msg = "";
+        MessageButtons btns;
+        public Message(string message, MessageButtons buttons)
         {
             InitializeComponent();
+            msg = message;
+            btns = buttons;
         }
     }
 }

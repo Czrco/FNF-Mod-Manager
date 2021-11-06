@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "FNF Mod Manager WPF/1.0.0": {
+      "FNF Mod Manager/1.0.0": {
         "runtime": {
-          "FNF Mod Manager WPF.dll": {}
+          "FNF Mod Manager.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "FNF Mod Manager WPF/1.0.0": {
+    "FNF Mod Manager/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

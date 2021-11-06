@@ -17,8 +17,7 @@ namespace Windows
         public ModShop()
         {
             Utilities utils = new Utilities();
-            var daResult = utils.InternetConnectivity();
-            if (daResult) { InitializeComponent(); } else { MessageBox.Show("you need internet connectivity to use fnf mod manager."); }
+            InitializeComponent();
             SetupModShop();
         }
 

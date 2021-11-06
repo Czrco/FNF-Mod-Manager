@@ -22,3 +22,5 @@ C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release
 C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\Windows\ModShop.baml
 C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\Windows\ModShelf.g.cs
 C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\Windows\ModShelf.baml
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\Windows\Resources\Message.baml
+C:\Users\Daniel\source\repos\FNF Mod Manager WPF\FNF Mod Manager WPF\obj\Release\netcoreapp3.1\Windows\Resources\Message.g.cs

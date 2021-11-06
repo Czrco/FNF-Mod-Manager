@@ -101,7 +101,7 @@ namespace Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/FNF Mod Manager WPF;component/windows/modshop.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/FNF Mod Manager;component/windows/modshop.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\ModShop.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

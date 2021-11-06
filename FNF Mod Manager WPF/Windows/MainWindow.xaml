@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FNF_Mod_Manager_WPF"
         mc:Ignorable="d"
-        Title="FNF Mod Manager [build 0.0.2 alpha]" Height="478" Width="817"
+        Title="FNF Mod Manager [build" Height="478" Width="817"
         WindowStartupLocation="CenterScreen"
         WindowStyle="SingleBorderWindow"
         SizeToContent="Manual"
