@@ -1,5 +1,3 @@
-![Logo](https://github.com/Czrco/FNF-Mod-Manager/blob/main/FNF%20Mod%20Manager/Resources/Friday_Night_Funkin_logo.png)
-
 # FNF Night Funkin Mod Manager
 
 ## Let's talk about the code optimizability.
@@ -9,7 +7,7 @@ I'm SHIT at coding, ok? /pc I hope in the future that I could optimize my code, 
 This repository is kinda hard to navigate. Going onto details and how to build!
 
 ## Building and browsing code
-This app is made in C# Windows Forms.
+This app is made in C# WPF.
 I'm using the latest version of Visual Studio 2019.
 ### Building
 First, download Visual Studio Downloader [here](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16) and open up the installer.
