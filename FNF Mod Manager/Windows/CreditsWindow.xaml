@@ -1,0 +1,15 @@
+﻿<Window x:Class="Windows.CreditsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Windows"
+        mc:Ignorable="d"
+        Title="Credits" Height="188" Width="358" ResizeMode="NoResize">
+    <Canvas Background="#FF2B2B2B">
+        <Image x:Name="Czrco" Height="100" Canvas.Left="30" Canvas.Top="34" Width="100" Source="/Windows/czrco.png"/>
+        <Image x:Name="Fren" Height="100" Canvas.Left="228" Canvas.Top="34" Width="100" Source="/Windows/vopa.png"/>
+        <Label Content="Czrco&#xD;&#xA;Creator of FNF Mod Manager" Canvas.Left="14" Canvas.Top="121" Height="38" Width="140" FontSize="10" Foreground="White"/>
+        <Label Content="Vopa&#xD;&#xA;Fren and tester" Canvas.Left="237" Canvas.Top="121" Height="41" Width="81" FontSize="10" Foreground="White"/>
+    </Canvas>
+</Window>

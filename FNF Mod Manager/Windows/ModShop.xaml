@@ -1,0 +1,43 @@
+﻿<Window x:Class="Windows.ModShop"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Windows"
+        mc:Ignorable="d"
+        Title="Mod Shop" Height="487" Width="817" ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        Closing="Window_Closing">
+    <Canvas Background="#FF2B2B2B" Margin="0,0,0,0">
+        <Image Height="159" Width="212" Source="/Friday_Night_Funkin_logo.png" Stretch="Uniform" Canvas.Left="587" Canvas.Top="293"/>
+        <Button x:Name="Download_Button" Content="Download This Mod!" Width="145" Height="30" Background="#FF008BFF" BorderBrush="{x:Null}" Foreground="White" Canvas.Left="22" Canvas.Top="402" Click="Button_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <ListBox x:Name="Mod_List" Height="290" Width="791" Canvas.Top="19" Background="#FF343434" BorderBrush="{x:Null}" Canvas.Left="12" Foreground="White">
+            <ListBox.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </ListBox.Resources>
+        </ListBox>
+        <ProgressBar x:Name="ProgBar" Height="10" Canvas.Left="220" Canvas.Top="414" Width="350" Visibility="Hidden"/>
+        <Button x:Name="Update_List" Content="Update Mod List" Width="115" Height="30" Background="#FF008BFF" BorderBrush="{x:Null}" Foreground="White" Canvas.Left="445" Canvas.Top="363" Click="Update_List_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Label x:Name="Warning" Content="You already have this mod, dummy!" Canvas.Left="306" Canvas.Top="421" Foreground="White" Visibility="Hidden"/>
+        <Button x:Name="Privacy_Policy" Content="Privacy Policy" Width="115" Height="30" Background="#FF008BFF" BorderBrush="{x:Null}" Foreground="White" Canvas.Left="326" Canvas.Top="363" Click="Privacy_Policy_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+    </Canvas>
+</Window>
