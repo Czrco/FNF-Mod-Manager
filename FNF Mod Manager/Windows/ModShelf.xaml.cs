@@ -49,5 +49,12 @@ namespace Windows
             CreditsWindow main = new CreditsWindow();
             main.Show();
         }
+
+        private void Back_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            MainWindow main = new MainWindow();
+            main.Show();
+        }
     }
 }

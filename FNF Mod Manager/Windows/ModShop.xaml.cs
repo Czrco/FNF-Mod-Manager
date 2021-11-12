@@ -137,5 +137,12 @@ namespace Windows
         {
             new Utilities().OpenURL("https://czrcos-databasee.000webhostapp.com/fnf%20mod%20manager/privacy-policy.html");
         }
+
+        private void Back_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            MainWindow main = new MainWindow();
+            main.Show();
+        }
     }
 }

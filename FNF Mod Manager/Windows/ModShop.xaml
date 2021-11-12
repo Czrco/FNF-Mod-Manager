@@ -39,5 +39,12 @@
                 </Style>
             </Button.Resources>
         </Button>
+        <Button x:Name="Back" Content="Back To Main Menu" Width="115" Height="30" Background="#FF008BFF" BorderBrush="{x:Null}" Foreground="White" Canvas.Left="326" Canvas.Top="398" Click="Back_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
     </Canvas>
 </Window>

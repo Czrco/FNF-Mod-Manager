@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Windows"
         mc:Ignorable="d"
         Title="ModShelf" Height="450" Width="800"
-        Closing="Window_Closing">
+        Closing="Window_Closing" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Canvas Background="#FF2B2B2B">
         <Image Height="159" Width="212" Source="/Friday_Night_Funkin_logo.png" Stretch="Uniform" Canvas.Left="555" Canvas.Top="251"/>
         <ListBox x:Name="Exe_List" Height="230" Width="740" Canvas.Left="28" Canvas.Top="27" BorderBrush="{x:Null}" Foreground="White" Background="#FF343434">
@@ -24,6 +24,12 @@
             </Button.Resources>
         </Button>
         <Button x:Name="Credits" Content="Button" Canvas.Left="580" Canvas.Top="274" Height="130" Width="180" Opacity="0.005" Click="Credits_Click"/>
-
+        <Button x:Name="Back" Content="Back To Main Menu" Width="125" Height="30" Background="#FF008BFF" BorderBrush="{x:Null}" Foreground="White" Canvas.Left="339.178" Canvas.Top="361.724" UseLayoutRounding="False" Click="Launch_Button_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
     </Canvas>
 </Window>

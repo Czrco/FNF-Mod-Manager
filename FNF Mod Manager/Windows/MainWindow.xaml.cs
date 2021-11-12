@@ -18,7 +18,7 @@ namespace Windows
             InitializeComponent();
             new DownloadManager().CheckForDownload();
             Debug_Box.Text = new Utilities().ReadFile("./settings/log.log");
-            var realVersion = "0.02-dev";
+            var realVersion = "0.02-dev-a-bugfix";
             this.Title += " " + realVersion + "]";
         }
 
@@ -44,7 +44,7 @@ namespace Windows
         private void Updates_Click(object sender, RoutedEventArgs e)
         {
             var version = new Utilities().StringDownload("https://czrcos-databasee.000webhostapp.com/fnf%20mod%20manager/update-resources/version");
-            var realVersion = "0.02-dev";
+            var realVersion = "0.02-dev-a-bugfix";
             if (version != realVersion)
             {
                 MessageBox.Show("You need an update! Your current version is v" + realVersion + ". The newest version is v" + version + ". Opening Updater...");
